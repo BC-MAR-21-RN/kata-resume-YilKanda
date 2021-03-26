@@ -7,110 +7,104 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Gilberto Armando Aguirre Alvarez # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  email: aguirrealvarezga@gmail.com
+  phone: (413) 113 9287
+  website: bc-mar-21-rn.github.io/kata-resume-YilKanda/
+  linkedin: #
+  github: YilKanda
+  gitlab: YilKanda
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@YilKanda'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: YilKanda
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Novice # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Teamwork and collaboration
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Project Management
+      link: # dejar en blanco
+
+    - item: Critical Thinking
+      link: # dejar en blanco
+
+    - item: Open-mindedness
+      link: # dejar en blanco
+
+    - item: Confidence
+      link: # dejar en blanco
+
+    - item: Problem-solving
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a young man who likes to support the community for its improvement. I struggle to find a job that allows me to develop my ability to support those who need it through my knowledge, facilitating learning in the areas of basic sciences and computer science, and / or being able to develop applications that benefit society. I like to constantly learn new content.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Master's Degree in Teaching
+    university: Humanistic College of Higher Studies Zalaya (CHESZ)
+    time: 2019 Sep - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Information Technology and Communications Engineer
+    university: National Technological Institute of Mexico. Technological Institute of Roque
+    time: 2013 - 2018
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Specialty: Agroindustrial
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: IT technician
+    university: Center for Technological Studies industrial and services No. 150
+    time: 2006 - 2009
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+      Specialty: Preventive and Corrective Maintenance of Computer Equipment
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Teacher
+    time: 2019 - 2021
+    company: Newton School Center
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Provide Office, Mathematics, Physics, Chemistry, Biology, and Social Sciences classes to all groups on campus.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Municipal Coordinator of the Virtual University of the State of Guanajuato
+    time: 2018
+    company: Municipality of Apaseo el Alto, Gto
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Among my main functions was the search for possible prospects to enter the educational institution, as well as generating activity reports regarding the number of possible students visited. I was also in charge of monitoring the students who were already enrolled in the educational institution. Finally, I had under my guard the municipal facilities of the Educational Access Center, which had the purpose of giving access to computer equipment to students and possible prospects to become students of the Educational Institution.
+
+  - role: Municipal Technical Assistant of the Virtual University of the State of Guanajuato
+    time: 2015 - 2018
+    company: Municipality of Apaseo el Alto, Gto
+    details: |
+      Among the functions to be developed were the preventive and corrective maintenance of the computer equipment of the Educational Access Center, as well as the architecture of the Project Internet Access for All. He also provided school counseling to the students of the educational institution in the fields of exact, natural and social sciences.
+
+  - role: Teacher
+    time: 2013
+    company: Center for Technological Studies industrial and services No. 150
+    details: |
+      Provide classes in the development of mobile applications in Android with Java and administration of computer networks to the groups of the Computer Science and Programming career.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +116,53 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: Linux
       level: 60%
 
-    - name: Caffe
+    - name: Microsoft Office
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: Git
+      level: 80%
 
-    - name: C/C++
+    - name: Visual Basic .NET
+      level: 60%
+
+    - name: Microsoft SQL Server
       level: 40%
+
+    - name: MySQL
+      level: 40%
+
+    - name: Java
+      level: 60%
+
+    - name: Android (Java)
+      level: 40%
+
+    - name: HTML5
+      level: 80%
+
+    - name: CSS3
+      level: 40%
+
+    - name: JavaScript
+      level: 40%
+
+    - name: PHP
+      level: 20%
+
+    - name: Laravel
+      level: 20%
+
+    - name: Ruby
+      level: 40%
+
+    - name: Rails
+      level: 40%
+
+    - name: React Native
+      level: 20%
 
 # NO MODIFICAR
 footer: >
