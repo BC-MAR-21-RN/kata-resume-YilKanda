@@ -63,9 +63,20 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+
+  - degree: React Native Mobile Developer Program Certification
+    university: BrightCoders Academy
+    time: 2021
+    details: |
+
+  - degree: Ruby on Rails Web Developer Program Certification
+    university: BrightCoders Academy
+    time: 2020 - 2021
+    details: |
+
   - degree: Master's Degree in Teaching
     university: Humanistic College of Higher Studies Zalaya (CHESZ)
-    time: 2019 Sep - current
+    time: 2019 - 2021
     details: |
 
   - degree: Information Technology and Communications Engineer
@@ -87,6 +98,12 @@ experiences:
     company: Newton School Center
     details: |
       Provide Office, Mathematics, Physics, Chemistry, Biology, and Social Sciences classes to all groups on campus.
+
+  - role: Front-end Web Developer
+    time: 2019
+    company: Freelancer
+    details: |
+      Development of a graphical environment of a web application using the languages ​​HTML, CSS3, JS (Vanilla).
 
   - role: Municipal Coordinator of the Virtual University of the State of Guanajuato
     time: 2018
@@ -125,6 +142,9 @@ skills:
     - name: Git
       level: 80%
 
+    - name: GitHub
+      level: 80%
+
     - name: Visual Basic .NET
       level: 60%
 
@@ -132,6 +152,9 @@ skills:
       level: 40%
 
     - name: MySQL
+      level: 40%
+
+    - name: Firebase
       level: 40%
 
     - name: Java
@@ -147,7 +170,7 @@ skills:
       level: 40%
 
     - name: JavaScript
-      level: 40%
+      level: 60%
 
     - name: PHP
       level: 20%
@@ -156,13 +179,13 @@ skills:
       level: 20%
 
     - name: Ruby
-      level: 40%
+      level: 60%
 
     - name: Rails
-      level: 40%
+      level: 60%
 
     - name: React Native
-      level: 20%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
