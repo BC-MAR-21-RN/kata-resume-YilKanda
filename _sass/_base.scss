@@ -55,14 +55,14 @@ p {
         color: #fff;
     }
     .name {
-        color: #5eefe1; 
+        color: #ffeb00; 
         font-size: 32px;
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
     }
     .tagline {
-        color: rgba(256, 256, 256, 0.6);
+        color: rgba(256, 256, 256, 0.9);
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
@@ -249,6 +249,7 @@ p {
         margin-bottom: 12px;
     }
     .level-bar {
+        color: #ffeb00;
         height: 12px;
         background: $smoky-white;
     }
