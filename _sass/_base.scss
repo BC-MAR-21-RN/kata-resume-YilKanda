@@ -1,6 +1,6 @@
 /* ======= Base ======= */
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     color: $text-color-secondary;
     background: $smoky-white;
     font-size: 14px;
@@ -249,14 +249,13 @@ p {
         margin-bottom: 12px;
     }
     .level-bar {
-        color: #ffeb00;
+  
         height: 12px;
         background: $smoky-white;
     }
     .level-bar-inner {
-         color: #ffeb00;
         height: 12px;
-        background: lighten($theme-color, 15%);
+        background: lighten(#5000ff, 15%);
     }
 }
 
