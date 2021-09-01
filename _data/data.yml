@@ -7,19 +7,21 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Gilberto Alvarez # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Gilberto Armando Aguirre # Nombre completo
+  tagline: >-
+        Ruby on Rails Web Developer
+        React Native Mobile Developer
   avatar: escudo2.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
   email: aguirrealvarezga@gmail.com
-  phone: (413) 113 9287
+  phone: (461) 380 4918
   website: bc-mar-21-rn.github.io/kata-resume-YilKanda/
   linkedin: #
   github: YilKanda
   gitlab: YilKanda
   bitbucket:
-  twitter: '@YilKanda'
+  twitter: # '@YilKanda'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars: YilKanda
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,6 +29,9 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
+      level: Advanced Beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: French
       level: Novice # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
@@ -64,6 +69,11 @@ career-profile:
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
 
+  - degree: Degree on Science in Human Behavior
+    university: Universidad Virtual del Estado de Guanajuato
+    time: 2022 - Current
+    details: |
+
   - degree: React Native Mobile Developer Program Certification
     university: BrightCoders Academy
     time: 2021
@@ -75,27 +85,47 @@ educationcomplete:
     details: |
 
   - degree: Master's Degree in Teaching
-    university: Humanistic College of Higher Studies Zalaya (CHESZ)
+    university: Colegio Humanístico de Estudios Superiores Zalaya (CHESZ)
     time: 2019 - 2021
     details: |
+      Professional license: 12865152
 
   - degree: Information Technology and Communications Engineer
-    university: National Technological Institute of Mexico. Technological Institute of Roque
+    university: Tecnológico Nacional de México. Instituto Tecnológico de Roque
     time: 2013 - 2018
     details: |
-      Specialty: Agroindustrial
+      Professional license: 11858889
 
-  - degree: IT technician
-    university: Center for Technological Studies industrial and services No. 150
+  - degree: Computer Systems Engineer
+    university: Tecnológico Nacional de México. Instituto Tecnológico de Celaya
+    time: 2009 - 2011
+    details: |
+      Unfinished degree
+
+  - degree: IT Technician
+    university: Centro de Estudio Tecnológicos industriales y de servicios No. 150
     time: 2006 - 2009
     details: |
-      Specialty: Preventive and Corrective Maintenance of Computer Equipment
+      Professional license: 8091142
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Teacher
-    time: 2019 - 2021
-    company: Newton School Center
+    time: 2022 - Current
+    company: Colegio de Estudios Científicos y Tecnológicos del Estado de Guanajuato
+    details: |
+      Teach Information and Communication Technologies, as well as Social Sciences.
+
+
+  - role: Municipal Technical Support of the Universidad Virtual del Estado de Guanajuato
+    time: 2021 - Current
+    company: Municipio Apaseo el Alto, Gto
+    details: |
+      Preventive and corrective maintenance of the computer equipment of the Universidad Virtual del Estado de Guanajuato Coordination, as well as of the dependencies that need the service.
+
+  - role: Teacher
+    time: 2019 - 2022
+    company: Centro Escolar Newton
     details: |
       Provide Office, Mathematics, Physics, Chemistry, Biology, and Social Sciences classes to all groups on campus.
 
@@ -103,26 +133,31 @@ experiences:
     time: 2019
     company: Freelancer
     details: |
-      Development of a graphical environment of a web application using the languages ​​HTML, CSS3, JS (Vanilla).
+      Development of a graphical environment of a web application using the languages HTML, CSS3, JS (Vanilla).
 
-  - role: Municipal Coordinator of the Virtual University of the State of Guanajuato
+  - role: Municipal Coordinator of the Universidad Virtual del Estado de Guanajuato
     time: 2018
-    company: Municipality of Apaseo el Alto, Gto
+    company: Municipio Apaseo el Alto, Gto
     details: |
       Among my main functions was the search for possible prospects to enter the educational institution, as well as generating activity reports regarding the number of possible students visited. I was also in charge of monitoring the students who were already enrolled in the educational institution. Finally, I had under my guard the municipal facilities of the Educational Access Center, which had the purpose of giving access to computer equipment to students and possible prospects to become students of the Educational Institution.
 
-  - role: Municipal Technical Assistant of the Virtual University of the State of Guanajuato
+  - role: Municipal Technical Assistant of the Universidad Virtual del Estado de Guanajuato
     time: 2015 - 2018
-    company: Municipality of Apaseo el Alto, Gto
+    company: Municipio Apaseo el Alto, Gto
     details: |
       Among the functions to be developed were the preventive and corrective maintenance of the computer equipment of the Educational Access Center, as well as the architecture of the Project Internet Access for All. He also provided school counseling to the students of the educational institution in the fields of exact, natural and social sciences.
 
   - role: Teacher
     time: 2013
-    company: Center for Technological Studies industrial and services No. 150
+    company: Centro de Estudios Tecnológicos industriales y de servicio No. 150
     details: |
       Provide classes in the development of mobile applications in Android with Java and administration of computer networks to the groups of the Computer Science and Programming career.
 
+  - role: Visual Basic .NET Developer
+    time: 2012-2013
+    company: Autobuses Apaseo el Alto, S.A. de C.V.
+    details: |
+      Development of an administrative and accounting application, related to a section of the company.
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
